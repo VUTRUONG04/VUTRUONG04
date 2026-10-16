@@ -1,49 +1,53 @@
-<h1 align="center">Hi 👋, I'm Vu Truong</h1>
-<h3 align="center">Software Engineer | Backend & API Development</h3>
+# Hi, I'm Vu Truong 👋
 
-- 🔧 I'm a **final-year Information Technology student** interested in **Software Engineering and Backend Development**.
+### Backend Developer | Node.js & TypeScript
 
-- 🧩 I focus on building backend services using **Node.js**, **Express.js**, and **MySQL**, designing **RESTful APIs**, authentication systems, and structured server-side applications.
+I'm a final-year Information Technology student at Ho Chi Minh City University of Transport (UTH), interested in backend engineering, database design, and building reliable software systems.
 
-- 🧠 I enjoy understanding how systems **handle requests**, **manage data consistency**, and **organize backend architecture** for maintainable and scalable services.
+I enjoy working on business logic, RESTful APIs, authentication, database consistency, and background processing.
 
-- 🤝  I'm open to **Software Engineer / Backend / Full-stack Intern opportunities** where I can learn and contribute to real-world software projects.
+## 🛠️ Tech Stack
 
-- 🚀 Currently building projects involving:
-  - RESTful API development
-  - JWT authentication & role-based authorization
-  - Backend architecture using MVC structure
-  - Database design with MySQL
-  - API integration with React applications
+- **Languages:** JavaScript, TypeScript, SQL
+- **Backend:** Node.js, Express.js, NestJS, RESTful APIs
+- **Databases:** MySQL, PostgreSQL
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Tools:** Git, Docker, Postman, Linux
 
-- ⚙️ Currently improving skills in:
-  - Backend architecture and scalable services
-  - API security and authentication flows
-  - System design fundamentals
-  - Collaboration and version control with Git/GitHub
+## 🚀 Featured Projects
 
-- ⚡ Fun fact: I enjoy playing sports, video games, singing and especially programming. ✨
+### GIOFCHAR — E-commerce Platform
+An e-commerce application with a Node.js/Express backend and a React admin dashboard.
 
----
+- RESTful APIs with JWT authentication, refresh tokens, and role-based access control
+- Product variants, promotions, carts, orders, and payment workflows
+- Database transactions and locking strategies for checkout and inventory consistency
+- VNPay sandbox payment integration
+- Transactional Outbox with a background worker and email delivery integration
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+**Repositories:** [Backend](https://github.com/VUTRUONG-ML/GIOFCHAR_BACKEND_NODEJS) · [Admin Dashboard](https://github.com/VUTRUONG-ML/GIOFCHAR_ADMIN_REACT)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</p>
+### Financial-Tax Management System
+A graduation project built with NestJS, PostgreSQL, and Prisma.
 
----
+- Backend workflows for financial and inventory-related operations
+- Database transactions and isolation levels for data consistency
+- SQL query analysis with `EXPLAIN` and indexing strategies
+- Request-ID-based logging for troubleshooting
 
-<h3 align="left">📬 Connect with me:</h3>
+**Repository:** [Backend](https://github.com/VUTRUONG-ML/financial-tax-BE)
 
-- GitHub: [github.com/VUTRUONG-ML](https://github.com/VUTRUONG-ML)  
-- Email: letruong8017@gmail.com  
+## 📚 Currently Exploring
+
+- Reliable background jobs and event-driven processing
+- Database concurrency, transactions, and query optimization
+- Backend testing, maintainable architecture, and software engineering practices
+
+## 🎯 Career Goal
+
+I'm looking for a Backend Developer Intern or Junior Software Engineer opportunity where I can contribute to real projects, learn from code reviews, and grow as an engineer.
+
+## 📫 Contact
+
+- **GitHub:** [@VUTRUONG04](https://github.com/VUTRUONG04)
+- **Email:** letruong8017@gmail.com
